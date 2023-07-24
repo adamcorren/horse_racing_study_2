@@ -11,7 +11,7 @@ Study 2 - Study of the accuracy of price ranges and how they differ across vario
 
 [Study on the effect of price movements on market reliability in UK and Ireland horse racing markets](https://github.com/adamcorren/horse_racing_study_4)
 
-[Project Report]()
+[Project Report](https://github.com/adamcorren/horse_racing_project_report)
 
 ## License
 
